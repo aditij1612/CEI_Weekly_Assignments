@@ -1,0 +1,51 @@
+﻿customer_id,first_name,last_name,gender,age,city,state,email,join_date,membership
+101,John,Clark,Female,60,Phoenix,AZ,john.clark101@example.com,2024-10-13,Gold
+102,Ava,Wilson,Female,36,Seattle,WA,ava.wilson102@example.com,2022-07-31,Gold
+103,Sophia,Wilson,Female,45,Dallas,TX,sophia.wilson103@example.com,2023-07-12,Platinum
+104,Noah,Lewis,Male,42,Denver,CO,noah.lewis104@example.com,2025-02-05,Platinum
+105,Sophia,Wilson,Female,37,Denver,CO,sophia.wilson105@example.com,2022-04-03,Silver
+106,,Davis,Male,54,Dallas,TX,emma.davis106@example.com,2023-11-16,Silver
+107,David,Hall,Female,33,Miami,FL,david.hall107@example.com,2024-12-12,Silver
+108,David,Johnson,Male,29,Dallas,TX,david.johnson108@example.com,2024-04-25,Silver
+109,James,Taylor,Female,49,Phoenix,AZ,james.taylor109@example.com,2022-10-13,Gold
+110,Sophia,Johnson,Male,39,Denver,CO,sophia.johnson110@example.com,2024-11-12,Gold
+111,David,Taylor,Male,58,Chicago,IL,,2022-10-22,Gold
+112,John,Moore,Female,27,Boston,MA,john.moore112@example.com,2024-06-03,Silver
+113,David,Clark,Female,40,Dallas,TX,david.clark113@example.com,2022-09-08,Silver
+114,Sophia,Johnson,Male,56,Phoenix,AZ,sophia.johnson114@example.com,2024-03-05,Platinum
+115,James,Clark,Male,35,Miami,FL,james.clark115@example.com,2022-01-28,Silver
+116,John,Smith,Female,55,,CO,john.smith116@example.com,2024-10-10,Platinum
+117,Ava,Brown,Female,30,Chicago,IL,ava.brown117@example.com,2022-11-07,Platinum
+118,Liam,Hall,Male,59,Chicago,IL,liam.hall118@example.com,2024-08-24,Platinum
+119,Ava,Brown,Male,35,Denver,CO,ava.brown119@example.com,2025-02-15,Platinum
+120,Bob,Brown,Female,53,New York,NY,bob.brown120@example.com,2022-09-22,Platinum
+121,Liam,Brown,Female,30,Denver,CO,liam.brown121@example.com,2024-06-11,Platinum
+122,Noah,Johnson,Female,28,Chicago,IL,noah.johnson122@example.com,2022-01-28,Gold
+123,Ava,Moore,Male,24,Chicago,IL,ava.moore123@example.com,2024-06-05,Silver
+124,John,Hall,Female,31,New York,NY,john.hall124@example.com,2022-04-14,Platinum
+125,James,Taylor,Male,40,Denver,CO,james.taylor125@example.com,2024-06-24,Platinum
+126,James,Lewis,Female,23,Chicago,IL,james.lewis126@example.com,2023-03-17,
+127,Bob,Johnson,Female,47,Chicago,IL,bob.johnson127@example.com,2023-06-01,Platinum
+128,James,Davis,Female,51,New York,NY,james.davis128@example.com,2024-09-14,Platinum
+129,Noah,Davis,Male,28,New York,NY,noah.davis129@example.com,2022-05-03,Gold
+130,David,Brown,Male,25,New York,NY,david.brown130@example.com,2022-10-03,Silver
+131,Liam,Johnson,Male,28,Dallas,TX,liam.johnson131@example.com,2024-03-23,Platinum
+132,Bob,Wilson,Female,39,Denver,CO,bob.wilson132@example.com,2025-01-01,Gold
+133,James,Johnson,Male,60,Chicago,IL,james.johnson133@example.com,2025-01-05,Gold
+134,James,Lewis,Female,33,Denver,CO,james.lewis134@example.com,2023-11-10,Silver
+135,James,Davis,Female,54,Seattle,WA,james.davis135@example.com,2024-07-28,Silver
+136,Olivia,Lewis,Male,24,Miami,FL,olivia.lewis136@example.com,2024-05-25,Silver
+137,Liam,Johnson,Male,51,Miami,FL,liam.johnson137@example.com,2024-10-08,Platinum
+138,Noah,Smith,Female,44,Boston,MA,noah.smith138@example.com,2024-07-10,Platinum
+139,Alice,Lewis,Male,53,New York,NY,alice.lewis139@example.com,2023-08-21,Platinum
+140,Emma,Hall,Male,46,Denver,CO,emma.hall140@example.com,2022-10-10,Platinum
+141,Mia,Smith,Female,26,New York,NY,mia.smith141@example.com,2023-11-15,Platinum
+142,James,Smith,Female,57,New York,NY,james.smith142@example.com,2023-08-31,Silver
+143,Olivia,Clark,Male,22,Boston,MA,olivia.clark143@example.com,2023-09-21,Silver
+144,Alice,Wilson,Male,50,Miami,FL,alice.wilson144@example.com,2023-03-06,Platinum
+145,Ava,Wilson,Female,23,Boston,MA,ava.wilson145@example.com,2024-07-24,Platinum
+146,Liam,Taylor,Female,49,Phoenix,AZ,liam.taylor146@example.com,2024-09-04,Platinum
+147,Bob,Taylor,Female,48,Denver,CO,bob.taylor147@example.com,2023-09-10,Gold
+110,Sophia,Johnson,Male,39,Denver,CO,sophia.johnson110@example.com,2024-11-12,Gold
+120,Bob,Brown,Female,53,New York,NY,bob.brown120@example.com,2022-09-22,Platinum
+130,David,Brown,Male,25,New York,NY,david.brown130@example.com,2022-10-03,Silver

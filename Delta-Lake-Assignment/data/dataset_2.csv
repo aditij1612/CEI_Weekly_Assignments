@@ -1,0 +1,16 @@
+﻿customer_id,first_name,last_name,gender,age,city,state,email,join_date,membership
+103,Bob,Brown,Male,31,Houston,TX,bob.brown103@example.com,2023-03-12,Gold
+108,Emma,Wilson,Female,29,San Diego,CA,emma.wilson108@example.com,2024-01-15,Platinum
+112,David,Taylor,Male,45,Austin,TX,david.taylor112@example.com,2022-09-20,Gold
+118,Sophia,Clark,Female,34,Orlando,FL,sophia.clark118@example.com,2023-11-08,Platinum
+125,James,Hall,Male,40,Portland,OR,james.hall125@example.com,2022-07-14,Silver
+130,Olivia,Lewis,Female,27,Las Vegas,NV,olivia.lewis130@example.com,2024-02-10,Gold
+145,Liam,Moore,Male,38,Atlanta,GA,liam.moore145@example.com,2023-05-01,Platinum
+150,Ava,Johnson,Female,26,Charlotte,NC,ava.johnson150@example.com,2024-04-22,Gold
+151,Ethan,Smith,Male,30,Nashville,TN,ethan.smith151@example.com,2024-06-10,Silver
+152,Grace,Davis,Female,28,Columbus,OH,grace.davis152@example.com,2024-06-15,Gold
+153,Henry,Wilson,Male,36,Detroit,MI,henry.wilson153@example.com,2024-07-01,Platinum
+154,Chloe,Brown,Female,24,Indianapolis,IN,chloe.brown154@example.com,2024-07-05,Silver
+155,Lucas,Taylor,Male,32,Kansas City,MO,lucas.taylor155@example.com,2024-07-08,Gold
+156,Zoe,Moore,Female,29,Salt Lake City,UT,zoe.moore156@example.com,2024-07-11,Silver
+157,Mason,Clark,Male,41,Raleigh,NC,mason.clark157@example.com,2024-07-20,Platinum
