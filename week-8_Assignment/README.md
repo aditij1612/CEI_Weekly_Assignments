@@ -278,6 +278,6 @@ This project demonstrates:
 
 ## Author
 
-**Your Name**
+Aditi Jain
 
 Intern Mini Project – E-Commerce Order Analytics System
