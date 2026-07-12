@@ -1,4 +1,4 @@
-#Data Analytics System
+##Data Analytics System
 
 ## Overview
 This project is an end-to-end data analytics mini project that demonstrates data generation, data cleaning, SQL analysis, and Python-SQL integration using an e-commerce dataset.
